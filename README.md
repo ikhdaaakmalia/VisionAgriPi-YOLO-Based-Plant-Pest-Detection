@@ -1,5 +1,3 @@
-# VisionAgriPi-YOLO-Based-Plant-Pest-Detection
-
 # VisionAgri-Pi  
 Automated Plant Pest Detection System using Computer Vision
 
